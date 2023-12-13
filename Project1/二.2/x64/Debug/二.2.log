@@ -1,0 +1,5 @@
+﻿  二.2.cpp
+C:\Users\18522\Desktop\cpp实验3，4\Project1\二.2\二.2.cpp(22,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\18522\Desktop\cpp实验3，4\Project1\二.2\二.2.cpp(27,52): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18522\Desktop\cpp实验3，4\Project1\二.2\二.2.cpp(29,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  二.2.vcxproj -> C:\Users\18522\Desktop\cpp实验3，4\Project1\x64\Debug\二.2.exe
